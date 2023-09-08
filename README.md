@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @KalokiNdambuki
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning JS and MySQL.
+- 💞️ I’m looking to collaborate on any web development project.
+- 📫 How to reach me;
+- WhatsApp - +254711790431
+- X - @ndambuki_kaloki
